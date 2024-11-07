@@ -1,0 +1,14 @@
+.company {
+  border: black solid 1px;
+  margin: 26px auto;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px black;
+  width: 70vw;
+  background-color: aliceblue;
+}
+
+.company a {
+  text-decoration: none;
+  color: black;
+}

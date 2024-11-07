@@ -1,0 +1,21 @@
+.job {
+  border: black 2px solid;
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: rgb(254, 248, 241);
+  display: flex;
+  justify-content: space-between;
+}
+
+.job h5 {
+  margin: 4px 0;
+}
+
+.job p {
+  margin: 0;
+}
+
+.job button {
+  padding: 2px 6px;
+  border-radius: 5px;
+}

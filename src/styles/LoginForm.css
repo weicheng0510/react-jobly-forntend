@@ -1,0 +1,30 @@
+.profile {
+  margin: auto;
+  margin-top: 20vh;
+  background-color: beige;
+  width: 30vw;
+  padding: 20px;
+}
+
+.profile h3 {
+  text-align: center;
+}
+
+.profile input {
+  padding: 2px;
+  border: gray solid 2px;
+  border-radius: 0;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.profile div {
+  width: 100%;
+}
+
+.profile button {
+  margin-left: 0px;
+  margin-top: 10px;
+  padding: 6px 10px;
+  border-radius: 0;
+}
